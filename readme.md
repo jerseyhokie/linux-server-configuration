@@ -32,6 +32,7 @@ Configure an Amazon Lightsail Linux server to host the catalog application
 8. Confirm only SSH keypair login is allowed for SSH
 9. Use git to install catalog application from my github
 10. Install Postgres / setup user catalog / add permissions for user catalog
+11. Add hostname to a spare personal domain - cbaines.org
 
 * Application Changes:
 1. Run lotsofitems.py to establish catalog DB
